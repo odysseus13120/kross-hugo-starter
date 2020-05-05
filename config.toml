@@ -4,21 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Psychomotricité Biver-Gardanne"
 [[menu.main]]
-URL = "about"
-name = "A propos"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-weight = 4
+weight = 3
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "À PROPOS"
+weight = 1
 [params]
 address = "294, avenue du Pilon du Roy, 13120 GARDANNE"
 author = "Jean-François Camboulas"
