@@ -11,9 +11,9 @@ fields:
 - type: text
   name: description
   label: description
-- type: file
-  name: author_image
-  label: author_image
 - type: text
   name: author_signature
   label: author_signature
+- type: file
+  name: author_image
+  label: author_image
