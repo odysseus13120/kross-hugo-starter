@@ -6,8 +6,14 @@ author_image: "/images/about/Centre_paramédical_sud.jpg"
 author_signature: images/about/signature.png
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Le cabinet de psychomotricité a été fondé en 1994 par Philippe BOUTELET, rejoint en 2012 par Jean-François CAMBOULAS qui intervient pour l'association ODYSSEUS, puis en 2013 par Axelle LAGET.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Nous proposons des rééducations et thérapies psychomotrices après un bilan établi à l'aide de tests validés sur le plan scientifique qui permet d'étayer un diagnostic médical.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Les séances sont individuelles ou en petits groupes, pour répondre aux problématiques spécifiques rencontrées.
+
+En plus des outils classiques, nous utilisons les technologies numériques, après adaptation ergonomique éventuelle.
+
+Nous proposons aussi des consultations de conseil aux parents ainsi que des prestations de formation et la supervision de professionnels.
+
+Les suivis dans le cadre MDPH et RESODYS sont possibles.
