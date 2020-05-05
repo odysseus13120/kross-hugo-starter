@@ -6,7 +6,7 @@ author_image: "/images/about/Centre_paramédical_sud.jpg"
 author_signature: images/about/signature.png
 
 ---
-Le cabinet de psychomotricité a été fondé en 1994 par Philippe BOUTELET, rejoint en 2012 par Jean-François CAMBOULAS qui intervient pour l'association ODYSSEUS, puis en 2013 par Axelle LAGET.
+Le cabinet de psychomotricité a été fondé en 1994 par Philippe BOUTELET, rejoint en 2012 par Jean-François CAMBOULAS (pour l'association ODYSSEUS), puis en 2013 par Axelle LAGET.
 
 Nous proposons des rééducations et thérapies psychomotrices après un bilan établi à l'aide de tests validés sur le plan scientifique qui permet d'étayer un diagnostic médical.
 
