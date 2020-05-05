@@ -14,6 +14,6 @@ Les séances sont individuelles ou en petits groupes, pour répondre aux problé
 
 En plus des outils classiques, nous utilisons les technologies numériques, après adaptation ergonomique éventuelle.
 
-Nous proposons aussi des consultations de conseil aux parents ainsi que des prestations de formation et la supervision de professionnels.
+Nous proposons aussi des consultations de conseil aux parents ainsi que des prestations de formation ou de supervision de professionnels.
 
 Les suivis dans le cadre MDPH et RESODYS sont possibles.
