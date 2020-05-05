@@ -2,7 +2,7 @@
 title: À propos
 date: 2019-05-12T06:14:34.000+00:00
 description: This is meta description.
-author_image: images/about/Centre paramedical sud.jpg
+author_image: "/images/about/Centre_paramédical_sud.jpg"
 author_signature: images/about/signature.png
 
 ---
