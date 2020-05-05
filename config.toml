@@ -4,8 +4,8 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Psychomotricité Biver-Gardanne"
 [[menu.main]]
-URL = "à propo"
-name = "About"
+URL = "about"
+name = "A propos"
 weight = 2
 [[menu.main]]
 URL = "blog"
